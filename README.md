@@ -12,7 +12,6 @@ This project provides a service for students to solve tests. Students can partic
 - H2 in-memory database support.
 - RESTful service architecture.
 - Validation and error handling.
-- Application documentation.
 
 ## Prerequisites
 1. **Clone the Project**: 
